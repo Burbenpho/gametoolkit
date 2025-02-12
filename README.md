@@ -60,8 +60,6 @@ Remember to replace placeholders like `"My Game"` your actual game names and sav
 | `<winDir>`             | `%WINDIR%` on Windows                                                                  |
 | `<xdgData>`            | `$XDG_DATA_HOME` on Linux                                                              |
 | `<xdgConfig>`          | `$XDG_CONFIG_HOME` on Linux                                                            |
-
-[Source](https://github.com/mtkennerly/ludusavi-manifest#Format)
 ## List of supported games
 - Tyrant's Realm (Windows)
 - Lorn's Lure (Windows, Linux, macOs)
