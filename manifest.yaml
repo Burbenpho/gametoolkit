@@ -32,3 +32,28 @@ Tyrant's Realm:
         - save
   steam:
     id: 2259260
+
+KLETKA:
+  files:
+    <winLocalAppData>/KLETKA/Saved/SaveGames/:
+      when:
+        - os: windows
+      tags:
+        - save
+    <home>/.config/Epic/KLETKA/Saved/SaveGames/:
+      when:
+        - os: linux
+      tags:
+        - save
+    <root>/steamapps/common/KLETKA/KLETKA/Saved/SaveGames/:
+      when:
+        - os: windows
+          store: steam
+        - os: linux
+          store: steam
+        - os: mac
+          store: steam
+      tags:
+        - save
+  steam:
+    id: 1699480
