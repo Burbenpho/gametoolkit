@@ -19,6 +19,7 @@ This is simple custom manifest for my own usage.
 You can download the latest release of Ludusavi from the [Ludusavi releases page](https://github.com/mtkennerly/ludusavi/releases).
 
 In OTHER tab add [link](https://raw.githubusercontent.com/Burbenpho/ludusavi-manifest/refs/heads/main/manifest.yaml) to manifests list.
+
 **WARNING:** Steam, GOG, EGS saving is not guaranteed.
 ## Manifest Guide
 
