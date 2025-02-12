@@ -9,7 +9,7 @@ This is simple custom manifest for my own usage.
 - [Installation](#installation)
 - [Manifest Guide](#manifest-guide)
 - [Creating Custom Manifests](#creating-custom-manifests)
-- [List of supported saves](#lists)
+- [List of supported games](#list-of-supported-games)
 - [Credits](#credits)
   
 
@@ -40,6 +40,11 @@ My Game: # whitespaces allowed
 
 Remember to replace placeholders like `"My Game"` your actual game names and save locations.  You can add multiple paths per game to cover different save locations.
 
-## Credits
+## List of supported games
+- Tyrant's Realm (Windows)
+- Lorn's Lure (Windows, Linux, macOs)
+
+...more will be added in future!
+## Credits 
 
 Ludusavi was created by [mtkennerly](https://github.com/mtkennerly) and is licensed under the MIT License. [1](https://github.com/mtkennerly/ludusavi)
