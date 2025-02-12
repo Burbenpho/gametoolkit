@@ -1,5 +1,19 @@
 Lorn's Lure:
   files:
-    "%USERPROFILE%/AppData/LocalLow/Rubeki Games/LornsLure/":
+    <winLocalAppDataLow>/Rubeki Games/LornsLure/:
+      when:
+        - os: windows
       tags:
         - save
+    <home>/Library/Application Support/Rubeki Games/LornsLure/:
+      when:
+        - os: mac
+      tags:
+        - save
+    <home>/.config/unity3d/Rubeki Games/LornsLure/:
+      when:
+        - os: linux
+      tags:
+        - save
+  steam:
+     id: 1417930
