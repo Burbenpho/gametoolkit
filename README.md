@@ -37,9 +37,31 @@ My Game: # whitespaces allowed
       tags:
         - save
 ```
-
 Remember to replace placeholders like `"My Game"` your actual game names and save locations.  You can add multiple paths per game to cover different save locations.
 
+## Placholders
+*This information was taken from the [Ludusavi Manifest Format documentation.](https://github.com/mtkennerly/ludusavi-manifest#Format)*
+
+| placeholder            | meaning                                                                                |
+|------------------------|----------------------------------------------------------------------------------------|
+| `<root>`               | a directory where games are installed (configured in backup tool)                      |
+| `<game>`               | an `installDir` (if defined) or the game's canonical name in the manifest              |
+| `<base>`               | shorthand for `<root>/<game>` (unless overridden by store-specific rules)              |
+| `<home>`               | current user's home directory in the OS (`~`)                                          |
+| `<storeGameId>`        | a store-specific `id` from the manifest, corresponding to the root's store type        |
+| `<storeUserId>`        | current user's ID in the game store                                                    |
+| `<osUserName>`         | current user's name in the OS                                                          |
+| `<winAppData>`         | `%APPDATA%` on Windows                                                                 |
+| `<winLocalAppData>`    | `%LOCALAPPDATA%` on Windows                                                            |
+| `<winLocalAppDataLow>` | `<home>/AppData/LocalLow` on Windows                                                   |
+| `<winDocuments>`       | `<home>/Documents` (f.k.a. `<home>/My Documents`) or a localized equivalent on Windows |
+| `<winPublic>`          | `%PUBLIC%` on Windows                                                                  |
+| `<winProgramData>`     | `%PROGRAMDATA%` on Windows                                                             |
+| `<winDir>`             | `%WINDIR%` on Windows                                                                  |
+| `<xdgData>`            | `$XDG_DATA_HOME` on Linux                                                              |
+| `<xdgConfig>`          | `$XDG_CONFIG_HOME` on Linux                                                            |
+
+[Source](https://github.com/mtkennerly/ludusavi-manifest#Format)
 ## List of supported games
 - Tyrant's Realm (Windows)
 - Lorn's Lure (Windows, Linux, macOs)
