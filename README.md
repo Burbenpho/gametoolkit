@@ -62,8 +62,10 @@ Remember to replace placeholders like `"My Game"` your actual game names and sav
 | `<xdgConfig>`          | `$XDG_CONFIG_HOME` on Linux                                                            |
 ## List of supported games
 - Tyrant's Realm (Windows)
-- Lorn's Lure (Windows, Linux, macOs)
-
+- Lorn's Lure (All)
+- Demons Roots (All)
+- KLETKA (All)
+- 
 ...more will be added in future!
 ## Credits 
 
