@@ -15,3 +15,10 @@ Lorn's Lure:
         - os: linux
       tags:
         - save
+      registry:
+    HKEY_CURRENT_USER\Software\Rubeki Games\LornsLure:
+      tags:
+        - save
+        - config
+  steam:
+    id: 1417930
