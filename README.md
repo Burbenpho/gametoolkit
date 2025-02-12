@@ -17,7 +17,7 @@ This is simple custom manifest for my own usage.
 
 ## Installation
 
-You can download the latest release of Ludusavi from the [GitHub Releases page](https://github.com/mtkennerly/ludusavi/releases)
+You can download the latest release of Ludusavi from the [Ludusavi releases page](https://github.com/mtkennerly/ludusavi/releases)
 In OTHER tab add [manifest.yaml]() to manifests list.
 
 ## Manifest Guide
