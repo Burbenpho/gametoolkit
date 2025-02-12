@@ -57,3 +57,13 @@ KLETKA:
         - save
   steam:
     id: 1699480
+
+Demons Roots:
+  files:
+    <base>/www/save:
+      tags:
+        - save
+  steam:
+    id: 1933660
+  gog:
+    id: 1216455810
