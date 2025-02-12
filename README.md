@@ -17,16 +17,17 @@ This is simple custom manifest for my own usage.
 
 ## Installation
 
-You can download the latest release of Ludusavi from the [GitHub Releases page](https://github.com/mtkennerly/ludusavi/releases). [1](https://github.com/mtkennerly/ludusavi)
+You can download the latest release of Ludusavi from the [GitHub Releases page](https://github.com/mtkennerly/ludusavi/releases)
 
 
 ## Manifest Guide
 
-Ludusavi uses a YAML-based manifest file to define the save locations for each game. This allows for flexible and accurate backups.  The primary manifest is available at [Ludusavi Manifest](https://github.com/mtkennerly/ludusavi-manifest). [1](https://github.com/mtkennerly/ludusavi)  This guide details the structure and usage of the manifest files.
+Ludusavi uses a YAML-based manifest file to define the save locations for each game. This allows for flexible and accurate backups.  The primary manifest is available at [Ludusavi Manifest](https://github.com/mtkennerly/ludusavi-manifest). This guide details the structure and usage of the manifest files.
 
 ## Creating Custom Manifests
 
 Because the default manifest may not cover all games or platforms, creating custom manifests is crucial for comprehensive backups.  The structure of a manifest file is as follows:
+
 ### Simple only folder example
 ```yaml project="ludusavi-manifest" file="example_manifest.yaml" version=1
 My Game: # whitespaces allowed
@@ -41,7 +42,7 @@ Remember to replace placeholders like `"My Game"` your actual game names and sav
 
 ## Contributing
 
-Contributions to Ludusavi are welcome! Please see the [CONTRIBUTING.md](https://github.com/mtkennerly/ludusavi/blob/main/CONTRIBUTING.md) file for details. [1](https://github.com/mtkennerly/ludusavi)
+Contributions to Ludusavi are welcome! Please see the [CONTRIBUTING.md](https://github.com/mtkennerly/ludusavi/blob/main/CONTRIBUTING.md) file for details.
 
 
 ## Credits
