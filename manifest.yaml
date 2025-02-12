@@ -63,6 +63,8 @@ Demons Roots:
     <base>/www/save:
       tags:
         - save
+  installDir:
+    Demons Roots: {}
   steam:
     id: 1933660
   gog:
