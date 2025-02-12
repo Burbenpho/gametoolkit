@@ -32,7 +32,7 @@ Because the default manifest may not cover all games or platforms, creating cust
 ```yaml project="ludusavi-manifest" file="example_manifest.yaml" version=1
 My Game: # whitespaces allowed
   files:
-    "C:/Any/Folder/Path": # see more in ludosavi-manifest guide
+    "C:/Any/Folder/Path": # see more in ludusavi-manifest guide
       tags:
         - save
 ```
