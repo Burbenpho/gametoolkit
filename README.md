@@ -4,7 +4,6 @@ Ludusavi is a cross-platform tool for backing up your PC video game save data.  
 
 This is simple custom manifest for my own usage.
 
-**Important Considerations:**  Currently, the this manifest may not fully support backing up games outside the standard Windows folder path saves or Linux applications.  Custom manifests are required for comprehensive support in these cases.
 
 ## Table of Contents
 - [Installation](#installation)
