@@ -18,7 +18,7 @@ This is simple custom manifest for my own usage.
 
 You can download the latest release of Ludusavi from the [Ludusavi releases page](https://github.com/mtkennerly/ludusavi/releases).
 
-In OTHER tab add [manifest.yaml]() to manifests list.
+In OTHER tab add [link](https://raw.githubusercontent.com/Burbenpho/ludusavi-manifest/refs/heads/main/manifest.yaml) to manifests list.
 **WARNING:** Steam, GOG, EGS saving is not guaranteed.
 ## Manifest Guide
 
@@ -28,7 +28,7 @@ Ludusavi uses a YAML-based manifest file to define the save locations for each g
 
 Because the default manifest may not cover all games or platforms, creating custom manifests is crucial for comprehensive backups.  The structure of a manifest file is as follows:
 
-### Simple only folder example
+#### Simple only folder example
 ```yaml project="ludusavi-manifest" file="example_manifest.yaml" version=1
 My Game: # whitespaces allowed
   files:
