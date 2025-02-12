@@ -47,4 +47,4 @@ Remember to replace placeholders like `"My Game"` your actual game names and sav
 ...more will be added in future!
 ## Credits 
 
-Ludusavi was created by [mtkennerly](https://github.com/mtkennerly) and is licensed under the MIT License. [1](https://github.com/mtkennerly/ludusavi)
+[Ludusavi](https://github.com/mtkennerly/ludusavi) was created by [mtkennerly](https://github.com/mtkennerly) and is licensed under the MIT License. 
