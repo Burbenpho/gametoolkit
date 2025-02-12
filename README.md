@@ -18,7 +18,7 @@ This is simple custom manifest for my own usage.
 ## Installation
 
 You can download the latest release of Ludusavi from the [GitHub Releases page](https://github.com/mtkennerly/ludusavi/releases)
-
+In OTHER tab add [manifest.yaml]() to manifests list.
 
 ## Manifest Guide
 
@@ -38,12 +38,6 @@ My Game: # whitespaces allowed
 ```
 
 Remember to replace placeholders like `"My Game"` your actual game names and save locations.  You can add multiple paths per game to cover different save locations.
-
-
-## Contributing
-
-Contributions to Ludusavi are welcome! Please see the [CONTRIBUTING.md](https://github.com/mtkennerly/ludusavi/blob/main/CONTRIBUTING.md) file for details.
-
 
 ## Credits
 
