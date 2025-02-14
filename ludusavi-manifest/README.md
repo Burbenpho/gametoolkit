@@ -29,7 +29,7 @@ Ludusavi uses a YAML-based manifest file to define the save locations for each g
 
 Because the default manifest may not cover all games or platforms, creating custom manifests is crucial for comprehensive backups.  The structure of a manifest file is as follows:
 
-#### Simple only folder example
+#### Simple example
 ```yaml project="ludusavi-manifest" file="example_manifest.yaml" version=1
 An Example Game:
   files:
