@@ -69,9 +69,10 @@ Demons Roots:
     id: 1933660
   gog:
     id: 1216455810
+    
 VOIN:
   files:
-    <winLocalAppData>/VOIN/Saved/SaveGames/	:
+    <winLocalAppData>/VOIN/Saved/SaveGames/:
       tags:
         - save
    installDir:
