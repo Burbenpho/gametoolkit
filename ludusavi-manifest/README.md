@@ -31,11 +31,30 @@ Because the default manifest may not cover all games or platforms, creating cust
 
 #### Simple only folder example
 ```yaml project="ludusavi-manifest" file="example_manifest.yaml" version=1
-My Game: # whitespaces allowed
+An Example Game:
   files:
-    "C:/Any/Folder/Path": # see more in ludusavi-manifest guide
+    <base>/saves:
       tags:
         - save
+    <base>/settings.json:
+      when:
+        - os: windows
+        - os: linux
+      tags:
+        - config
+    <base>/other:
+      when:
+        - os: mac
+          store: steam
+  installDir:
+    AnExampleGame: {}
+  registry:
+    HKEY_CURRENT_USER/Software/An Example Game:
+      tags:
+        - save
+        - config
+  steam:
+    id: 123
 ```
 Remember to replace placeholders like `"My Game"` your actual game names and save locations.  You can add multiple paths per game to cover different save locations.
 
