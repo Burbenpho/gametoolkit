@@ -1,6 +1,6 @@
 ## Hydra Launcher - Your Game Center!
 
-[**Hydra**](https://github.com/hydralauncher/hydra) **Game Launcher** with its own embedded **BitTorrent Client**.
+[**Hydra**](https://github.com/hydralauncher/hydra) is **Game Launcher** with its own embedded **BitTorrent Client**.
 <br>
 The launcher is written in TypeScript (Electron) and Python, which handles the torrenting system by using libtorrent.
 
