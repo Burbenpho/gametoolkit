@@ -20,7 +20,7 @@ The launcher is written in TypeScript (Electron) and Python, which handles the t
 
 1. **Download Hydra Launcher:** Go to the [Hydra Launcher download page](https://github.com/hydralauncher/hydra/releases/) and download the latest version.
 2. **Install Hydra Launcher:** Follow the installation instructions.
-3. **Insert json in Settings -> Sources -> Add Source:** Copy myownsource.json and add
+3. **Insert link in Settings -> Sources -> Add Source:** Copy [link](https://github.com/Burbenpho/gametoolkit/blob/main/hydra-launcher-sources/myownsource.json) and add it to sources.
 
 ---
 
