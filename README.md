@@ -1,6 +1,6 @@
 # Simple configs for my own usage!
 
-This includes:
+Configurations for:
 
 * **Hydra Launcher Sources:** `sources.json` configuration files for the [Hydra Launcher](https://github.com/Burbenpho/gametoolkit/tree/main/hydra-launcher-sources).
     [**Learn more about Hydra Launcher sources**](https://github.com/Burbenpho/gametoolkit/tree/main/hydra-launcher-sources)
