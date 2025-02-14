@@ -73,9 +73,9 @@ Demons Roots:
 VOIN:
   files:
     <winLocalAppData>/VOIN/Saved/SaveGames/:
+      when:
+        - os: windows
       tags:
         - save
-   installDir:
-    VOIN: {}
   steam:
     id: 2464530
