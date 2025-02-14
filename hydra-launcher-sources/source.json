@@ -17,16 +17,23 @@
       "uploadDate": "2025-02-14T11:20:00.000Z",
       "fileSize": "1,30 GB"
     },
-    
+
     {
-      "title": "Kingdom Rush Origins - Tower Defence [ENG] 2024",
+      "title": "Kingdom Rush - Tower Defence [ENG]",
+      "uris": [
+        "magnet:?xt=urn:btih:0b5c9afcf13e89fc5d985ecf3c42dd97af79878d&#038;dn=%5BGOG%5D%20Kingdom%20Rush&#038;tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d44f74c1b260611c59e010c7092516%2Fannounce"
+      ],
+      "uploadDate": "2025-02-14T12:20:00.000Z",
+      "fileSize": "495 MB"
+    },
+
+    {
+      "title": "Kingdom Rush Origins - Tower Defence [ENG]",
       "uris": [
         "magnet:?xt=urn:btih:4321c27d762968ea7278fec9e3ef4f1af95850eb&#038;tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d44f74636ed79e0b93e795e3357f69%2Fannounce&#038;tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d44f74636ed79e0b93e795e3357f69%2Fannounce"
       ],
       "uploadDate": "2025-02-14T12:20:00.000Z",
       "fileSize": "495 MB"
-    },
-    
-    
+    }
   ]
 }
