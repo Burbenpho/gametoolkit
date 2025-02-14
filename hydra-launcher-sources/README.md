@@ -24,8 +24,6 @@ The launcher is written in TypeScript (Electron) and Python, which handles the t
 
 ---
 
----
-
 ### List of added games in myownsource.json
 
 -
